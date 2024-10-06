@@ -1,9 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
 *{
     margin: 0;
     padding: 0;
-    font-family: "Protest Strike", sans-serif;
+    font-family: "Ga Maamli", sans-serif;
     box-sizing: border-box;
 }
 h1{
@@ -74,7 +75,7 @@ button{
     font-size: 20px;
     cursor: pointer;
     background-color: white;
-    font-weight: 300;
+    font-weight: 500;
 }
 button:hover{
     background: rgb(0, 192, 226);
